@@ -69,3 +69,18 @@ Implementation
   20. PINKY_TIP
 
 
+  ![Picture1](https://github.com/Sriharikj/Sign-Language-Recognition-using-ten-hand-gesture-signs-/assets/110553288/fd3ba976-d3f1-49c7-9ca9-ac5f8e6fd2a1)
+
+Software Used :
+  1. Python – 3.x (we used Python 3.8.8 in this project)
+  2. 2. OpenCV – 4.5
+  Run “pip install opencv-python” to install OpenCV.
+  3. MediaPipe – 0.8.5
+  Run “pip install mediapipe” to install MediaPipe.
+  4. Tensorflow – 2.5.0
+  Run “pip install tensorflow” to install the tensorflow module.
+  5. Numpy – 1.19.3
+
+
+
+
