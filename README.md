@@ -7,3 +7,9 @@ OverView
   3.Developing an efficient sign language recognition system to recognize dynamic isolated gestures encounters three major challenges, namely, hand segmentation, hand shape feature representation and gesture sequence recognition.
 
 
+Algorithm Used 
+
+  Deep Learning:
+    
+    Deep learning is a subset of machine learning that uses multilayered neural networks, called deep neural networks, to simulate the complex decision-making power of the human brain.
+    
