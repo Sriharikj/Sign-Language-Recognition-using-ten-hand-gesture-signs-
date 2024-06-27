@@ -81,6 +81,7 @@ Software Used :
   Run “pip install tensorflow” to install the tensorflow module.
   5. Numpy – 1.19.3
 
+Output:
 
-
+  ![Output Sign Language](https://github.com/Sriharikj/Sign-Language-Recognition-using-ten-hand-gesture-signs-/assets/110553288/abd97a56-9d48-4de6-80de-b6f3e345ae70)
 
