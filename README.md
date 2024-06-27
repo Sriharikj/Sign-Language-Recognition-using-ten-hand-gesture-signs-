@@ -13,3 +13,7 @@ Algorithm Used
     
    Deep learning is a subset of machine learning that uses multilayered neural networks, called deep neural networks, to simulate the complex decision-making power of the human brain.
     
+  CNN-Deep Learning:
+
+   A Convolutional Neural Network (CNN) is a type of deep learning algorithm that is particularly well-suited for image recognition and processing tasks. It is made up of multiple layers, including convolutional   
+   layers, pooling layers, and fully connected layers.
