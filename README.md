@@ -26,9 +26,10 @@ Implementation
 
   2.These key points will be fed into a pre-trained gesture recognizer network to recognize the hand pose.
 
-  0. WRIST
+  0. WRIST                      15. RING_FINGER_DIP
+
   
-  1. THUMB_CMC
+  1. THUMB_CMC                                                                    
   
   2. THUMB_MCP
   
