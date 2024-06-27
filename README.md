@@ -17,3 +17,5 @@ Algorithm Used
 
    A Convolutional Neural Network (CNN) is a type of deep learning algorithm that is particularly well-suited for image recognition and processing tasks. It is made up of multiple layers, including convolutional   
    layers, pooling layers, and fully connected layers.
+   
+   ![imag 1_8299](https://github.com/Sriharikj/Sign-Language-Recognition-using-ten-hand-gesture-signs-/assets/110553288/25e530e4-1fa3-4d47-8137-81835079db85)
